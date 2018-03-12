@@ -1,0 +1,3 @@
+yung laman ng css ilagay niyo sa assets/css
+yung laman ng js ilagay sa assets/js
+yung laman ng vendor ilagay sa assets/vendor

@@ -1,0 +1,3 @@
+yung nasa controller folder, ilagay sa application/controller
+yung nasa model folder, ilagay sa application/model
+yung nasa views folder, ilagay sa application/views/admin
